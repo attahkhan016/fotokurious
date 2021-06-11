@@ -1,7 +1,7 @@
 /*
-	Snapshot by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+	Snapshot by MAK
+	MAK.co @MAKco
+	Released for free under the Creative Commons Attribution 3.0 license (MAK.co/license)
 */
 
 (function($) {
