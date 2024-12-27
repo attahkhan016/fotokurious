@@ -2,7 +2,7 @@ pipeline {
     agent { label 'docker-slave' }
 
     environment {
-        RECIPIENTS = 'youremail@example.com' // Add your email address here
+        RECIPIENTS = 'jenkins.github2@gmail.com' // Add your email address here
     }
 
     stages {
