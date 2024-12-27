@@ -2,7 +2,7 @@ pipeline {
     agent { label 'docker-slave' }
 
     stages {
-        stage('Test') {
+        stage('Testing') {
             steps {
                 echo 'Running tests...'
             }
